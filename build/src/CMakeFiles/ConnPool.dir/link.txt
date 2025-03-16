@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/ConnPool.dir/CommonConnectionPool.cpp.o CMakeFiles/ConnPool.dir/Connection.cpp.o CMakeFiles/ConnPool.dir/wanMain.cpp.o -o ../../bin/ConnPool   -L/user/lib64/mysql  -Wl,-rpath,/user/lib64/mysql -lmysqlclient 
